@@ -25,11 +25,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔵 [Zone Demand Analysis GUI Tool](https://github.com/YOUR_USERNAME/Zone-Demand-Analysis-Tool)
+### 🔵 [Zone Demand Analysis GUI Tool](https://github.com/Duvvada-Naveen-Kumar/Zone-Demand-Analysis-Tool)
 > Desktop application for zone-wise electricity demand analysis at MP PPMCL  
 > `Python` `Tkinter` `Pandas` `Matplotlib` `Excel Automation`
 
-### 🟠 [IEX DAM Price Forecasting Tool](https://github.com/YOUR_USERNAME/IEX-DAM-Price-Forecasting)
+### 🟠 [IEX DAM Price Forecasting Tool](https://github.com/Duvvada-Naveen-Kumar/IEX-DAM-Price-Forecasting)
 > Block-wise MCP prediction using LSTM deep learning on IEX DAM historical data  
 > `Python` `LSTM` `TensorFlow` `Streamlit` `Tkinter` `Time Series`
 
