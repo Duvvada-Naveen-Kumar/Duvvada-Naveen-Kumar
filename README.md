@@ -19,9 +19,6 @@
 
 ---
 
-## ⚡ Domain Expertise
-
----
 
 ## 🚀 Featured Projects
 
